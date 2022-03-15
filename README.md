@@ -1,1 +1,1 @@
-primera práctica
+Filosofos

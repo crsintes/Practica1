@@ -1,223 +1,0 @@
-Script started on Thu Feb  3 18:34:21 2022
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 ~ % [K[?2004hmmsm mkdir process os[?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 ~ % [K[?2004hccd procesoso [?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hlls[?2004l
-0_procesos.py
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004httouch README.me d[?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004heecho "primera práctica" >> README.md[?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hccat READE E ME.md[?2004l
-primera práctica
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit init[?2004l
-[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
-[33mhint: is subject to change. To configure the initial branch name to use in all[m
-[33mhint: of your new repositories, which will suppress this warning, call:[m
-[33mhint: [m
-[33mhint: 	git config --global init.defaultBranch <name>[m
-[33mhint: [m
-[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
-[33mhint: 'development'. The just-created branch can be renamed via this command:[m
-[33mhint: [m
-[33mhint: 	git branch -m <name>[m
-Initialized empty Git repository in /Users/cristinasintesgarcia/procesos/.git/
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hppwd[?2004l
-/Users/cristinasintesgarcia/procesos
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit add README.md[?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hGGIT  G  ggit add 0_procesos.py[?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit status[?2004l
-On branch master
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	[32mnew file:   0_procesos.py[m
-	[32mnew file:   README.md[m
-
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit reo   commit -m "Subiendo archivo 0_procesos"[?2004l
-[master (root-commit) a3c6119] Subiendo archivo 0_procesos
- 2 files changed, 25 insertions(+)
- create mode 100644 0_procesos.py
- create mode 100644 README.md
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit remote add origin [7mhttps://github.com/crsi[7mn[7mtes/prpacrsintes.git[27m[K[A[66C[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27mr[27ms[27min[27mt[27me[27ms[27m/[27mp[27mr[27mp[27ma[27mc[27mr[27ms[27mi[27mn[27mt[27me[27ms[27m.[27mg[27mi[27mt[?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit push -u origin master[?2004l
-Username for 'https://github.com': crsintes
-Password for 'https://crsintes@github.com': 
-remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-fatal: Authentication failed for 'https://github.com/crsintes/prpacrsintes.git/'
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit push -u origin master[?2004l
-Username for 'https://github.com': crsintes
-Password for 'https://crsintes@github.com': 
-remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-fatal: Authentication failed for 'https://github.com/crsintes/prpacrsintes.git/'
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit push -u origin master[?2004l
-Username for 'https://github.com': crsintes
-Password for 'https://crsintes@github.com': 
-Enumerating objects: 4, done.
-Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
-Delta compression using up to 4 threads
-Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
-Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 586 bytes | 586.00 KiB/s, done.
-Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
-remote: 
-remote: Create a pull request for 'master' on GitHub by visiting:[K
-remote:      https://github.com/crsintes/prpacrsintes/pull/new/master[K
-remote: 
-To https://github.com/crsintes/prpacrsintes.git
- * [new branch]      master -> master
-Branch 'master' set up to track remote branch 'master' from 'origin'.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit pull[?2004l
-[33mhint: Pulling without specifying how to reconcile divergent branches is[m
-[33mhint: discouraged. You can squelch this message by running one of the following[m
-[33mhint: commands sometime before your next pull:[m
-[33mhint: [m
-[33mhint:   git config pull.rebase false  # merge (the default strategy)[m
-[33mhint:   git config pull.rebase true   # rebase[m
-[33mhint:   git config pull.ff only       # fast-forward only[m
-[33mhint: [m
-[33mhint: You can replace "git config" with "git config --global" to set a default[m
-[33mhint: preference for all repositories. You can also pass --rebase, --no-rebase,[m
-[33mhint: or --ff-only on the command line to override the configured default per[m
-[33mhint: invocation.[m
-gremote: Enumerating objects: 5, done.[K
-remote: Counting objects:  20% (1/5)[Kremote: Counting objects:  40% (2/5)[Kremote: Counting objects:  60% (3/5)[Kremote: Counting objects:  80% (4/5)[Kremote: Counting objects: 100% (5/5)[Kremote: Counting objects: 100% (5/5), done.[K
-remote: Compressing objects:  25% (1/4)[Kremote: Compressing objects:  50% (2/4)[Kremote: Compressing objects:  75% (3/4)[Kremote: Compressing objects: 100% (4/4)[Kremote: Compressing objects: 100% (4/4), done.[K
-Unpacking objects:  20% (1/5)Unpacking objects:  40% (2/5)Unpacking objects:  60% (3/5)remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0[K
-Unpacking objects:  80% (4/5)Unpacking objects: 100% (5/5)Unpacking objects: 100% (5/5), 13.44 KiB | 529.00 KiB/s, done.
-From https://github.com/crsintes/prpacrsintes
- * [new branch]      main       -> origin/main
-Already up to date.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit push -u       g  ggit add 2 1_proe cesos.py[?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hlls[?2004l
-0_procesos.py	1_procesos.py	2_procesos.py	3_procesos.py	4_procesos.py	README.md
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit commit -m "Subir los demñ ás procesos2 "[P[20C [21De los demás procesos"[20Dn los demás procesos"[20Dd los demás procesos"[20Do los demás procesos"[20D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
-[master cf484ce] Subiendo los demás procesos
- 1 file changed, 26 insertions(+)
- create mode 100644 1_procesos.py
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit romet    emote add origin [7mhttps://github.com/crsi[7mn[7mtes/prpacrsintes.git[27m[K[A[66C[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27mr[27ms[27min[27mt[27me[27ms[27m/[27mp[27mr[27mp[27ma[27mc[27mr[27ms[27mi[27mn[27mt[27me[27ms[27m.[27mg[27mi[27mt[?2004l
-error: remote origin already exists.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit push -u origin master[?2004l
-Enumerating objects: 4, done.
-Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
-Delta compression using up to 4 threads
-Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 559 bytes | 559.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/crsintes/prpacrsintes.git
-   a3c6119..cf484ce  master -> master
-Branch 'master' set up to track remote branch 'master' from 'origin'.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit pull[?2004l
-[33mhint: Pulling without specifying how to reconcile divergent branches is[m
-[33mhint: discouraged. You can squelch this message by running one of the following[m
-[33mhint: commands sometime before your next pull:[m
-[33mhint: [m
-[33mhint:   git config pull.rebase false  # merge (the default strategy)[m
-[33mhint:   git config pull.rebase true   # rebase[m
-[33mhint:   git config pull.ff only       # fast-forward only[m
-[33mhint: [m
-[33mhint: You can replace "git config" with "git config --global" to set a default[m
-[33mhint: preference for all repositories. You can also pass --rebase, --no-rebase,[m
-[33mhint: or --ff-only on the command line to override the configured default per[m
-[33mhint: invocation.[m
-Already up to date.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit add pro   2_rp  procesos.py[?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit commit -m "Subiendo 2_procesos"a2_procesos"[11Dr2_procesos"[11Dc2_procesos"[11Dh2_procesos"[11Di2_procesos"[11Do2_procesos"[11D[P[11C [12Dv2_procesos"[11Do2_procesos"[11D 2_procesos"[11D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
-[master 7acc289] Subiendo archivo 2_procesos
- 1 file changed, 34 insertions(+)
- create mode 100644 2_procesos.py
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit puss h -u origin master[?2004l
-Enumerating objects: 4, done.
-Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
-Delta compression using up to 4 threads
-Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 710 bytes | 710.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/crsintes/prpacrsintes.git
-   cf484ce..7acc289  master -> master
-Branch 'master' set up to track remote branch 'master' from 'origin'.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit pull[?2004l
-[33mhint: Pulling without specifying how to reconcile divergent branches is[m
-[33mhint: discouraged. You can squelch this message by running one of the following[m
-[33mhint: commands sometime before your next pull:[m
-[33mhint: [m
-[33mhint:   git config pull.rebase false  # merge (the default strategy)[m
-[33mhint:   git config pull.rebase true   # rebase[m
-[33mhint:   git config pull.ff only       # fast-forward only[m
-[33mhint: [m
-[33mhint: You can replace "git config" with "git config --global" to set a default[m
-[33mhint: preference for all repositories. You can also pass --rebase, --no-rebase,[m
-[33mhint: or --ff-only on the command line to override the configured default per[m
-[33mhint: invocation.[m
-Already up to date.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit add 3_procesos.py[?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit commit -m "Subiendo archivo 3_procesos"[?2004l
-[master 16179cf] Subiendo archivo 3_procesos
- 1 file changed, 30 insertions(+)
- create mode 100644 3_procesos.py
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit push -u origin master[?2004l
-Enumerating objects: 4, done.
-Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
-Delta compression using up to 4 threads
-Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 651 bytes | 651.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
-To https://github.com/crsintes/prpacrsintes.git
-   7acc289..16179cf  master -> master
-Branch 'master' set up to track remote branch 'master' from 'origin'.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit pull[?2004l
-[33mhint: Pulling without specifying how to reconcile divergent branches is[m
-[33mhint: discouraged. You can squelch this message by running one of the following[m
-[33mhint: commands sometime before your next pull:[m
-[33mhint: [m
-[33mhint:   git config pull.rebase false  # merge (the default strategy)[m
-[33mhint:   git config pull.rebase true   # rebase[m
-[33mhint:   git config pull.ff only       # fast-forward only[m
-[33mhint: [m
-[33mhint: You can replace "git config" with "git config --global" to set a default[m
-[33mhint: preference for all repositories. You can also pass --rebase, --no-rebase,[m
-[33mhint: or --ff-only on the command line to override the configured default per[m
-[33mhint: invocation.[m
-Already up to date.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit add 4_process os.py[?2004l
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit commit -m "subiendo archivo 4_a procesos"[?2004l
-[master 78249f2] subiendo archivo 4_procesos
- 1 file changed, 38 insertions(+)
- create mode 100644 4_procesos.py
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit push -u origin main[?2004l
-error: src refspec main does not match any
-[31merror: failed to push some refs to 'https://github.com/crsintes/prpacrsintes.git'
-[m[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit push -u origin master[?2004l
-Enumerating objects: 4, done.
-Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
-Delta compression using up to 4 threads
-Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 672 bytes | 672.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
-To https://github.com/crsintes/prpacrsintes.git
-   16179cf..78249f2  master -> master
-Branch 'master' set up to track remote branch 'master' from 'origin'.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004hggit pull[?2004l
-[33mhint: Pulling without specifying how to reconcile divergent branches is[m
-[33mhint: discouraged. You can squelch this message by running one of the following[m
-[33mhint: commands sometime before your next pull:[m
-[33mhint: [m
-[33mhint:   git config pull.rebase false  # merge (the default strategy)[m
-[33mhint:   git config pull.rebase true   # rebase[m
-[33mhint:   git config pull.ff only       # fast-forward only[m
-[33mhint: [m
-[33mhint: You can replace "git config" with "git config --global" to set a default[m
-[33mhint: preference for all repositories. You can also pass --rebase, --no-rebase,[m
-[33mhint: or --ff-only on the command line to override the configured default per[m
-[33mhint: invocation.[m
-Already up to date.
-[1m[7m%[27m[1m[0m                                                                                                              ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/procesos[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 procesos % [K[?2004h[?2004l
-
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-
-Script done on Thu Feb  3 19:23:56 2022
