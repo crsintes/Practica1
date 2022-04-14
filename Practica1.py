@@ -68,6 +68,18 @@ def index_lower(storage):
 
     return index
 
+def finished(storage):
+    
+    finish = True
+    
+    for i in range(NPROD):
+        
+        if storage[i][0] != -1:
+            finish = False
+            break
+        
+    return finish
+
 
 def producer(storage, index, empty, non_empty, mutex):
     
@@ -91,25 +103,26 @@ def consumer(storage, index, empty, non_empty, mutex, list_final):
     running = [False for i in range(NPROD)]
     delay(6)
     
-    for k in range(N*NPROD):
+    while True:
         
-        for j in range(NPROD):
+        for j in range(len(running)):
                 
             if not running[j]:
                     
                 non_empty[j].acquire()
                 running[j] = True
                 
-        
+        if finished(storage):
+            break
         i = index_lower(storage)
         running[i] = False
         valor_consumido = get_data(storage[i], index[i], mutex[i])
         empty[i].release()
         list_final[ind] = valor_consumido
         ind += 1
-        delay(6)
         
         print (f"Consumiendo {valor_consumido} del productor {i}")
+        delay(6)
         
 
 
